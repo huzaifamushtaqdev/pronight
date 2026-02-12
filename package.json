@@ -1,0 +1,35 @@
+{
+  "name": "pronight",
+  "displayName": "ProNight",
+  "description": "Amazing theme to write code",
+  "version": "0.0.1",
+  "publisher": "huzaifamushtaq",
+  "icon": "images/pronight.png",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/huzaifamushtaq/pronight"
+  },
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+    "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "pronight",
+    "huzaifamushtaq"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ProNight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ProNight-color-theme.json"
+      }
+    ]
+  }
+}
