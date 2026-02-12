@@ -1,9 +1,9 @@
 {
   "name": "pronight",
   "displayName": "ProNight",
-  "description": "Amazing theme to write code",
+  "description": "ProNight is a sleek, dark theme for VS Code designed for long coding sessions. It balances vibrant colors with low eye strain, helping you stay focused while keeping your code readable and visually appealing.",
   "version": "0.0.1",
-  "publisher": "huzaifamushtaq",
+  "publisher": "Huzaifa Mushtaq",
   "icon": "images/pronight.png",
    "repository": {
     "type": "git",

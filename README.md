@@ -15,7 +15,7 @@ Dark blue coding theme with a black terminal, modern suggest popups, and brighte
 
 ## ProNight Theme
 
-![ProNight preview](https://raw.githubusercontent.com/huzaifamushtaq/pronight/main/images/protheme.png?raw=true)
+![ProNight preview](https://github.com/huzaifamushtaqdev/pronight/blob/main/images/protheme.png?raw=true)
 
 
 ## About Author
