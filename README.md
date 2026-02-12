@@ -14,7 +14,8 @@ Dark blue coding theme with a black terminal, modern suggest popups, and brighte
 - Warnings/Errors: #f2c078 warning, #ff7b72 error
 
 ## ProNight Theme
-![ProNight preview](https://github.com/lakhweratechnologies3/pronight/blob/master/images/protheme.png?raw=true)
+
+![ProNight preview](https://raw.githubusercontent.com/huzaifamushtaq/pronight/main/images/protheme.png?raw=true)
 
 
 ## About Author
