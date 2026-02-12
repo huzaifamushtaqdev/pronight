@@ -19,7 +19,7 @@ Dark blue coding theme with a black terminal, modern suggest popups, and brighte
 
 
 ## About Author
-Built by `Huzaifa Mushtaq`, A full-stack developer & Founder of Xenzox Technologies.
+Built by `Huzaifa Mushtaq`, A Full Stack developer & Founder of Xenzox Technologies.
 
 ## Recommended Settings
 ```json
